@@ -1,4 +1,4 @@
-# 💫 About Me:
+💫 About Me:
 # Hi there, I'm Gopal Kumar Jha 👋<br><br>## 🚀 About Me<br>🌱 I’m currently learning **MERN Stack Development** (MongoDB, Express.js, React, Node.js)  <br>💡 Passionate about **Full-Stack Web Development & Blockchain**  <br>🔭 Exploring **DSA in C++** to strengthen problem-solving skills  <br><br>✨ **Always eager to learn and build amazing projects!** 🚀<br><br>
 
 
