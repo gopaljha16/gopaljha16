@@ -1,6 +1,7 @@
 # Hi there, I'm Gopal Kumar Jha 👋<br><be>
 # 💫 About Me:
-🌱 I’m currently learning MERN Stack Development (MongoDB, Express.js, React, Node.js)<br>💡 Passionate about Full-Stack Web Development<br>🔭 Exploring DSA in C++ to strengthen problem-solving skills
+🛠️ I'm currently working on Full-Stack Web Projects using the MERN Stack  <br>🤝 I'm looking to collaborate on Blockchain-based DApps and AI-powered web tools  <br>🙌 I'm looking for help with mastering System Design for scalable applications  <br>🌱 I'm currently learning Blockchain Development, System Design, and Generative AI  <br>💬 Ask me about MERN Stack, Web Performance Optimization, and JavaScript/React tricks  <br>⚡ Fun fact: I love turning complex ideas into clean, working web apps!<br><br>---<br><br>🚀 Passionate about building high-performance, modern web applications  <br>📈 Exploring DSA in C++ to sharpen my problem-solving mindset  <br>🎯 Always eager to learn and grow with impactful tech projects 
+
 
 
 # 💻 Tech Stack:
@@ -8,7 +9,6 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=gopaljha16&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=gopaljha16&theme=chartreuse-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gopaljha16&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
