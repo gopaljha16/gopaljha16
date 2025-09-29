@@ -5,7 +5,7 @@
 🛠️ I'm currently working on Full-Stack Web Projects using the MERN Stack for building robust web applications.  
 🤝 I'm looking to collaborate on Blockchain-based DApps, AI-powered web tools, and scalable system design projects.  
 🙌 I'm deepening my knowledge in High-Level Design (HLD) and mastering System Design for scalable applications.  
-🌱 I'm currently learning Blockchain Development, System Design (HLD/LLD), ASP.NET Core, and Generative AI.  
+🌱 I'm currently learning Blockchain Development, System Design (HLD/LLD), and Generative AI.  
 💬 Ask me about MERN Stack, Web Performance Optimization, and JavaScript/React tricks.  
 ⚡ Fun fact: I enjoy turning complex ideas into clean, high-performance web apps!
 
